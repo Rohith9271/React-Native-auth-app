@@ -14,7 +14,7 @@
 
 ## PROJECT DESCRIPTION
 
-The CBIT Management Information System is a dynamic, responsive platform designed to provide a comprehensive overview of a college's infrastructural assets. It allows management to access and analyze data across various categories, including classrooms, laboratories, seminar halls, and washrooms, with options to download reports as Excel or PDF files. Administrators benefit from features like secure login, bulk data upload via Excel templates, and easy data management. Additionally, it offers detailed views of library and sports facilities, enhancing resource transparency and management efficiency.
+This is a App that we built, when we've  participated in T-hub hackthon coducted by Wincibl (Doctorite.ai)
 
 
 ## TECHNOLOGIES USED
