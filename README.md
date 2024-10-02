@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">A Real-time Android App that helps for Student's and Employees Mental Health care.</h4>
-<h6 align="center">Note: Backend will load slowly as it is deployed on a free server.</h6>
+<h6 align="center">Note: The repo also contains AI enabled codes but we have'nt integrated in the Wincibl App, due to deployment issues. But you can view them separately</h6>
 
 <p align="center">
   • <a href="https://miscbit.vercel.app/">Live Website</a> •
