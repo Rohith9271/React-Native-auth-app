@@ -22,14 +22,16 @@ This is a App that we built, when we've  participated in T-hub hackthon coducted
 
 * ![React-Native]
 * ![Redux for State Management]
-* ![MaterialUI]
+
+# For Backend
 * ![Node.js]
 * ![Express.js]
 * ![MongoDB]
-* ![TailwindCSS]
-* ![JavaScript]
-* ![HTML5]
-* ![CSS3]
+
+# AI& ML
+* Gemini API
+* Regression Model
+  
 
 
 
