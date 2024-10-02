@@ -20,13 +20,13 @@ This is a App that we built, when we've  participated in T-hub hackthon coducted
 ## TECHNOLOGIES USED
 # For Frontend
 
-* ![React-Native]
-* ![Redux for State Management]
+* React-Native
+* Redux for State Management
 
 # For Backend
-* ![Node.js]
-* ![Express.js]
-* ![MongoDB]
+* Node.js
+* Express.js
+* MongoDB
 
 # AI& ML
 * Gemini API
