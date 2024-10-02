@@ -18,9 +18,10 @@ This is a App that we built, when we've  participated in T-hub hackthon coducted
 
 
 ## TECHNOLOGIES USED
+# For Frontend
 
-* ![React.js]
-* ![Redux]
+* ![React-Native]
+* ![Redux for State Management]
 * ![MaterialUI]
 * ![Node.js]
 * ![Express.js]
