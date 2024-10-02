@@ -3,6 +3,7 @@ import { View, Text, StyleSheet, ScrollView, ImageBackground, TouchableOpacity }
 import { useRouter } from "expo-router";
 import FlashMessage from "react-native-flash-message";
 import GeminiChat from '../../components/GeminiChatbot';
+import FontAwesome5 from '@expo/vector-icons/FontAwesome5';
 const Home = () => {
     let router=useRouter();
     return (
@@ -58,8 +59,19 @@ const Home = () => {
                 </View>
 
                 <View>
+                <View style={styles.form}>
+                <TouchableOpacity onPress={() => router.push("/(form)")}>
+                <FontAwesome5 name="wpforms" size={104} color="black" />
+                </TouchableOpacity>
+                <Text style={styles.textContent}>Take an initial Survey</Text>
 
-                    <Text style={styles.textContent}>Hello</Text>
+                </View>
+                    
+                </View>
+
+                <View>
+
+                    <Text style={styles.textContent}></Text>
                     <GeminiChat />
                     <FlashMessage position={"top"} />
                 </View>
@@ -76,6 +88,13 @@ const styles = StyleSheet.create({
     header: {
         fontSize: 12,
         fontWeight: 'bold'
+    },
+    form:{
+       alignItems:'center',
+        marginTop:40,
+        alignContent:'center',
+        marginBottom:-50,
+        
     },
     t1: {
         marginLeft: 20,
