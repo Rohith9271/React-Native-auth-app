@@ -8,7 +8,7 @@
 <h6 align="center">Note: The repo also contains AI enabled codes but we have'nt integrated in the Wincibl App, due to deployment issues. But you can view them separately</h6>
 
 <p align="center">
-  • <a href="https://miscbit.vercel.app/">Live Website</a> •
+  
   <a href="https://mulberry-calendula-c8e.notion.site/CBIT-MANAGEMENT-INFORMATION-SYSTEM-MIS-f8d9c3e23c014882b3934c377745f79b">Documentation</a> 
 </p>
 
